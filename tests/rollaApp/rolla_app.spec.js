@@ -30,8 +30,5 @@ test.describe('Rolla App Test Cases', () => {
         console.log('Response Token:', token);
         console.log('Response hasProfile:', hasProfile);
     })
-    test.skip("Get JSON file", async ({ }) => {
-        
-    })
 })
 
